@@ -1,0 +1,13 @@
+ipykernel
+transformers
+torch
+sentencepiece
+sacremoses
+protobuf
+datasets
+scikit-learn
+spacy
+seqeval
+sacrebleu
+matplotlib
+pandas
